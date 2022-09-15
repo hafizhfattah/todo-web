@@ -10,7 +10,7 @@ Made With JavaScript, HTML & CSS
 ### 📷 **Screenshots**
 
   <img
-    src="/assets/image2.png"
+    src="/assets/image3.png"
     alt="Main Screen"
     title="Main Screen"
     style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
