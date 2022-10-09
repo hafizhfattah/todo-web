@@ -1,6 +1,6 @@
 ### 📝 **Simple ToDoList Web**
 
-A Simple Calculator Todo List Application
+A Simple Calculator Todo List Application.
 Made With JavaScript, HTML & CSS
 
 ### 🚀 **Getting Started**
