@@ -1,6 +1,6 @@
 ### 📝 **Simple ToDo Web**
 
-A Simple Calculator Todo Web. Made With JavaScript, HTML & CSS
+A Simple Calculator Todo Web. Made With JavaScript, HTML & CSS.
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
